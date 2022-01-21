@@ -1,0 +1,15 @@
+C:\Development\Repos\MarketingPDFMerge\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+C:\Development\Repos\MarketingPDFMerge\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+C:\Development\Repos\MarketingPDFMerge\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+C:\Development\Repos\MarketingPDFMerge\WindowsFormsApp1\bin\Release\BouncyCastle.Crypto.dll
+C:\Development\Repos\MarketingPDFMerge\WindowsFormsApp1\bin\Release\itextsharp.dll
+C:\Development\Repos\MarketingPDFMerge\WindowsFormsApp1\bin\Release\itextsharp.xmlworker.dll
+C:\Development\Repos\MarketingPDFMerge\WindowsFormsApp1\bin\Release\itextsharp.xml
+C:\Development\Repos\MarketingPDFMerge\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Development\Repos\MarketingPDFMerge\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+C:\Development\Repos\MarketingPDFMerge\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Development\Repos\MarketingPDFMerge\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Development\Repos\MarketingPDFMerge\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Development\Repos\MarketingPDFMerge\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CopyComplete
+C:\Development\Repos\MarketingPDFMerge\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+C:\Development\Repos\MarketingPDFMerge\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
